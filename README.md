@@ -24,19 +24,9 @@ make
 shellyeah
 ```
 
-<!-- ## Built With
-
-* [text](http://somelink.com) - what it was -->
-
 ## Author
 
 * **Sonam Kindy** - [code-tsunami](https://github.com/code-tsunami)
-
-<!-- ## Acknowledgments (Resources)
-
-* Inspiration
-* Code used
-* etc. -->
 
 ## License
 
