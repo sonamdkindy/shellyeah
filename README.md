@@ -26,7 +26,7 @@ shellyeah
 
 ## Author
 
-* **Sonam Kindy** - [code-tsunami](https://github.com/code-tsunami)
+* **Sonam Kindy** - [sonamdkindy](https://github.com/sonamdkindy)
 
 ## License
 
